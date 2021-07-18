@@ -5,7 +5,7 @@
 
 [![RedNam's GitHub Top Languages](https://github-readme-stats-nxis0fxo0-rednam-ntn.vercel.app/api/top-langs?username=rednam-ntn&show_icons=true&theme=ayu-mirage&hide_border=true&border_radius=10&layout=compact&cache_seconds=1800)](https://github.com/rednam-ntn/github-readme-stats)
 
-[![RedNam's GitHub Top Languages](https://github-readme-stats-nxis0fxo0-rednam-ntn.vercel.app/api/wakatime?username=RedNam&show_icons=true&theme=ayu-mirage&hide_border=true&border_radius=10&layout=compact&cache_seconds=1800)](https://github.com/rednam-ntn/github-readme-stats)
+[![RedNam's GitHub Wakatime](https://github-readme-stats-nxis0fxo0-rednam-ntn.vercel.app/api/wakatime?username=RedNam&show_icons=true&theme=ayu-mirage&hide_border=true&border_radius=10&layout=compact&cache_seconds=1800)](https://github.com/rednam-ntn/github-readme-stats)
 
 <!--
 <a href="#">
