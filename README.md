@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![wakatime](https://wakatime.com/badge/user/ccd2e878-5697-4d34-8d6e-01a95c39aacf.svg)](https://wakatime.com/@ccd2e878-5697-4d34-8d6e-01a95c39aacf)
+<a href="https://wakatime.com/@ccd2e878-5697-4d34-8d6e-01a95c39aacf"><img src="https://wakatime.com/badge/user/ccd2e878-5697-4d34-8d6e-01a95c39aacf.svg" alt="Total time coded since Jun 23 2021" /></a>
 
 [![RedNam's GitHub stats](https://github-readme-stats-nxis0fxo0-rednam-ntn.vercel.app/api?username=rednam-ntn&count_private=true&show_icons=true&theme=ayu-mirage&hide_border=true&border_radius=10&include_all_commits=true&cache_seconds=1800)](https://github.com/rednam-ntn/github-readme-stats)
 
