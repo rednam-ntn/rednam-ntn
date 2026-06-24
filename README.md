@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 💻 I’m currently working at [CyberLogitec](https://www.linkedin.com/company/cyberlogitec) Vietnam
 - 🌱 I’m currently learning on k8s with TypeScripts favor
 - 💬 Ask me about Backend Developement, CI/CD & PYTHON 🐍
 - 📫 Ping me at: hi@rednam.dev
